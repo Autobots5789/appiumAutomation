@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53844" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53844" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+      <class name="com.maven.selenium.appium.appiumCapabilities">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="setUpTest" is-config="true" duration-ms="53468" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="findElements()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="findElements" duration-ms="141" started-at="2018-05-09T12:35:52Z" finished-at="2018-05-09T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findElements -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="tearDown" is-config="true" duration-ms="216" started-at="2018-05-09T12:35:52Z" finished-at="2018-05-09T12:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.maven.selenium.appium.appiumCapabilities -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
