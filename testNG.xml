@@ -1,0 +1,6 @@
+<test name="appiumCapabilities">
+               <classes>
+                      <class name="org.testng.annotations.appiumCapabilities">
+                       </class>
+               </classes>
+ </test>

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53844" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+  <suite name="Default suite" duration-ms="54196" started-at="2018-05-13T22:37:29Z" finished-at="2018-05-13T22:38:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53844" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+    <test name="Default test" duration-ms="54196" started-at="2018-05-13T22:37:29Z" finished-at="2018-05-13T22:38:24Z">
       <class name="com.maven.selenium.appium.appiumCapabilities">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="setUpTest" is-config="true" duration-ms="53468" started-at="2018-05-09T12:34:58Z" finished-at="2018-05-09T12:35:52Z">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="setUpTest" is-config="true" duration-ms="53718" started-at="2018-05-13T22:37:29Z" finished-at="2018-05-13T22:38:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="findElements()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="findElements" duration-ms="141" started-at="2018-05-09T12:35:52Z" finished-at="2018-05-09T12:35:52Z">
+        <test-method status="PASS" signature="findElements()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="findElements" duration-ms="151" started-at="2018-05-13T22:38:23Z" finished-at="2018-05-13T22:38:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findElements -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="tearDown" is-config="true" duration-ms="216" started-at="2018-05-09T12:35:52Z" finished-at="2018-05-09T12:35:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.selenium.appium.appiumCapabilities@319b92f3]" name="tearDown" is-config="true" duration-ms="309" started-at="2018-05-13T22:38:23Z" finished-at="2018-05-13T22:38:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
