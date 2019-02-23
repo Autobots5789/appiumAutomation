@@ -23,6 +23,7 @@ public class AndroidCapabilities {
 		cap.setCapability("platformName", "android");
 		cap.setCapability("platformVersion", "8.0");
 		cap.setCapability("deviceName", "Pixel");
+		cap.setCapability("avd", "Pixel");
 		cap.setCapability("appPackage", "github.nisrulz.activitylifecycle");
 		cap.setCapability("appActivity", "github.nisrulz.activitylifecycle.MainActivity");
 		cap.setCapability("app", apkAppPath);
