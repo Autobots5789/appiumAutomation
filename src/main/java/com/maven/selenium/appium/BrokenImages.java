@@ -13,7 +13,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class brokenImages {
+public class BrokenImages {
 
 	/**
 	 * response.statusLine().getStatusCode() != 200 This is the crucial line to print the broken images 
