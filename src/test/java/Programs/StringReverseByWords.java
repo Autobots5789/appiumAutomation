@@ -1,4 +1,4 @@
-package Sample;
+package Programs;
 
 import java.lang.StringBuilder;
 
