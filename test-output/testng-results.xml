@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6476" started-at="2019-02-23T18:37:05Z" finished-at="2019-02-23T18:37:12Z">
+  <suite name="Default suite" duration-ms="5741" started-at="2019-02-24T01:06:17Z" finished-at="2019-02-24T01:06:23Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6476" started-at="2019-02-23T18:37:05Z" finished-at="2019-02-23T18:37:12Z">
+    <test name="Default test" duration-ms="5741" started-at="2019-02-24T01:06:17Z" finished-at="2019-02-24T01:06:23Z">
       <class name="com.maven.selenium.appium.AndroidCapabilities">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="setUpTest" is-config="true" duration-ms="5121" started-at="2019-02-23T18:37:05Z" finished-at="2019-02-23T18:37:10Z">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="setUpTest" is-config="true" duration-ms="4618" started-at="2019-02-24T01:06:17Z" finished-at="2019-02-24T01:06:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="test" duration-ms="695" started-at="2019-02-23T18:37:10Z" finished-at="2019-02-23T18:37:11Z">
+        <test-method status="PASS" signature="androidTest()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="androidTest" duration-ms="585" started-at="2019-02-24T01:06:21Z" finished-at="2019-02-24T01:06:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="tearDown" is-config="true" duration-ms="638" started-at="2019-02-23T18:37:11Z" finished-at="2019-02-23T18:37:12Z">
+        </test-method> <!-- androidTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.selenium.appium.AndroidCapabilities@319b92f3]" name="tearDown" is-config="true" duration-ms="514" started-at="2019-02-24T01:06:22Z" finished-at="2019-02-24T01:06:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
