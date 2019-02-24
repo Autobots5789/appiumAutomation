@@ -1,4 +1,4 @@
-package Sample;
+package Programs;
 
 //import Sample.InstanceAndClassVariables;
 
